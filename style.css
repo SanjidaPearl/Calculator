@@ -31,11 +31,11 @@ input {
     padding: 24px;
     margin: 10px;
     background:lightgray;
-    box-shadow: 0px 3px 15px rgba(255, 255, 255, 0.5); /* Change box shadow to white */
+    box-shadow: 0px 3px 15px rgba(255, 255, 255, 0.5); 
     font-size: 40px;
     text-align: right;
     cursor: pointer;
-    color: black; /* Change text color to black */
+    color: black; 
 }
 
 input::placeholder{
